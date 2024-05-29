@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FxRateApi", "FxRateApi\FxRateApi.csproj", "{593D061B-D7B5-4939-B873-F72AA51F473B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{593D061B-D7B5-4939-B873-F72AA51F473B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593D061B-D7B5-4939-B873-F72AA51F473B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593D061B-D7B5-4939-B873-F72AA51F473B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593D061B-D7B5-4939-B873-F72AA51F473B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {700428A8-5E44-415E-AA64-4044CD884D64}
+	EndGlobalSection
+EndGlobal
